@@ -22,5 +22,11 @@
         "key": "MRJAVAD",
         "expirydate": "15-06-2080",
         "Allowoffline": false
+    },
+    {
+        "device_id": "604d9033fc87fcd9",
+        "key": "javad",
+        "expirydate": "15-12-2080",
+        "Allowoffline": false
     }
 ]
