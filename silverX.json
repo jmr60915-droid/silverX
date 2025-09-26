@@ -40,4 +40,12 @@
         "key": "MF",
         "expirydate": "15-12-2080",
         "Allowoffline": false
-    }
+     
+     },
+    {
+        "device_id": "73ec909724bc6d73",
+        "key": "mmdff",
+        "expirydate": "15-06-2025",
+        "Allowoffline": false
+    },
+    {
