@@ -34,11 +34,10 @@
         "key": "MR",
         "expirydate": "15-12-2080",
         "Allowoffline": false
-    }
-]
-{
+    },
+    {
         "device_id": "73ec909724bc6d73",
-        "key": "by",
+        "key": "MF",
         "expirydate": "15-12-2080",
         "Allowoffline": false
-}
+    }
