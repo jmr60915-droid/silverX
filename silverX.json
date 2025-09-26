@@ -38,6 +38,7 @@
 ]
 {
         "device_id": "73ec909724bc6d73",
-        "key": "mmdyt",
-        "expirydate": "31-12-2025",
-        "Allowoffline": true
+        "key": "by",
+        "expirydate": "15-12-2080",
+        "Allowoffline": false
+}
