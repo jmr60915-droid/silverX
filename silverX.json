@@ -17,7 +17,6 @@
         "expirydate": "15-06-2080",
         "Allowoffline": false
     },
-    [
     {
         "device_id": "259a3a68a026b3a3",
         "key": "DINE",
@@ -30,7 +29,6 @@
         "expirydate": "15-06-2025",
         "Allowoffline": false
     },
-        [
     {
         "device_id": "device123",
         "key": "key12345",
@@ -42,7 +40,12 @@
         "key": "MOHMAD1",
         "expirydate": "15-06-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "259a3a68a026b3a3",
+        "key": "DANI",
+        "expirydate": "15-06-2026",
+        "Allowoffline": false
     }
-        ]
-    ]
+]
 
