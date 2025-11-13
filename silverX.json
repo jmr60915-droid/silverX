@@ -47,18 +47,11 @@
         "expirydate": "15-06-2026",
         "Allowoffline": false
     },
-    [
-    {
-        "device_id": "device123",
-        "key": "key12345",
-        "expirydate": "31-12-2025",
-        "Allowoffline": true
-    },
     {
         "device_id": "88fc75781b11e10b",
         "key": "TIGER",
-        "expirydate": "15-06-2025",
+        "expirydate": "15-06-2026",
         "Allowoffline": false
-    }
-    ]
-]
+    },
+    [
+
