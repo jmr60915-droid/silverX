@@ -53,5 +53,11 @@
         "expirydate": "15-06-2026",
         "Allowoffline": false
     },
+    {
+        "device_id": "644715369ff2cd47",
+        "key": "VIP",
+        "expirydate": "15-06-2026",
+        "Allowoffline": false
+    },
 ]
 
