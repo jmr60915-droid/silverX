@@ -65,5 +65,12 @@
         "expirydate": "15-06-2026",
         "Allowoffline": false
     },
+    
+    {
+        "device_id": "34d0073223a48752",
+        "key": "KING",
+        "expirydate": "15-06-2026",
+        "Allowoffline": false
+    },
 ]
 
