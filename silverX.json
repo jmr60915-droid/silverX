@@ -72,5 +72,11 @@
         "expirydate": "15-06-2026",
         "Allowoffline": false
     },
+    {
+        "device_id": "c2eadd806c0845e5",
+        "key": "PROV",
+        "expirydate": "15-06-2026",
+        "Allowoffline": false
+    }
 ]
 
