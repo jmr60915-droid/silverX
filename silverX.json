@@ -77,6 +77,12 @@
         "key": "PROV",
         "expirydate": "15-06-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "232d9c960b2790b6",
+        "key": "ALIVIP",
+        "expirydate": "15-06-2026",
+        "Allowoffline": false
     }
 ]
 
