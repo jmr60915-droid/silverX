@@ -83,6 +83,12 @@
         "key": "ALIVIP",
         "expirydate": "15-06-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "052a2fa767025922",
+        "key": "UPI",
+        "expirydate": "15-06-2026",
+        "Allowoffline": false
     }
 ]
 
