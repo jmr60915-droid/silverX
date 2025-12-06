@@ -95,6 +95,12 @@
         "key": "TROL",
         "expirydate": "15-06-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "a1ae7b561557313f",
+        "key": "GVTO",
+        "expirydate": "15-06-2026",
+        "Allowoffline": false
     }
 ]
 
