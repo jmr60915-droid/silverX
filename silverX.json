@@ -89,6 +89,12 @@
         "key": "UPI",
         "expirydate": "15-06-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "3f0b3c2a8a946da6",
+        "key": "TROL",
+        "expirydate": "15-06-2026",
+        "Allowoffline": false
     }
 ]
 
